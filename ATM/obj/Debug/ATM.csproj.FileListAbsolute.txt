@@ -1,0 +1,16 @@
+D:\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+D:\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+D:\ATM\ATM\bin\Debug\ATM.exe.config
+D:\ATM\ATM\bin\Debug\ATM.exe
+D:\ATM\ATM\bin\Debug\ATM.pdb
+D:\ATM\ATM\obj\Debug\ATM.exe
+D:\ATM\ATM\obj\Debug\ATM.pdb
+D:\ATM\ATM\bin\Debug\EntityFramework.dll
+D:\ATM\ATM\bin\Debug\EntityFramework.SqlServer.dll
+D:\ATM\ATM\bin\Debug\System.Data.SQLite.dll
+D:\ATM\ATM\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ATM\ATM\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ATM\ATM\bin\Debug\EntityFramework.xml
+D:\ATM\ATM\bin\Debug\EntityFramework.SqlServer.xml
+D:\ATM\ATM\bin\Debug\System.Data.SQLite.xml
+D:\ATM\ATM\obj\Debug\ATM.csproj.CopyComplete
